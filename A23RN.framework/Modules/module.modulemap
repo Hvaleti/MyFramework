@@ -1,0 +1,6 @@
+framework module A23RN {
+  umbrella header "A23RN.h"
+
+  export *
+  module * { export * }
+}
