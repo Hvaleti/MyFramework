@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "MyRN"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.2"
   spec.summary      = "This will give the compiled frmawork"
   spec.description  = "This will give the compiled framework, we need to pass the user nput and it will return a random number"
 
